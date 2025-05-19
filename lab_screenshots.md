@@ -3,7 +3,7 @@ This file contains screenshots of the completed labs from the Google Cloud Cyber
 ## Screenshots
 
 - **Lab Completion - Part 1**
-  ![Lab Completion - Part 1](screenshots/screenshot_part1.png)
+  ![Lab Completion - Part 1](https://github.com/CyberSecFale/screenshots/blob/main/Screenshot_part1.png)
 
 - **Lab Completion - Part 2**
   ![Lab Completion - Part 2](screenshots/screenshot_part2.png)
