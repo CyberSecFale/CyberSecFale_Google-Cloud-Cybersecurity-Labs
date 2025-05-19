@@ -1,90 +1,103 @@
 # CyberSecFale_Google-Cloud-Cybersecurity-Labs
 
-<!-- Optional Banner (if you upload a CyberWolf or lab-themed image, name it cyberwolf-banner.png) -->
-<!--
-<p align="center">
-  <img src="./screenshots/cyberwolf-banner.png" alt="Cybersecurity Labs Portfolio" width="85%" />
-</p>
--->
 
-# 🧪 Google Cloud Cybersecurity Labs Portfolio  
+CyberSecFate: Google-Cloud-Cybersecurity-Labs
+Google Cloud Cybersecurity Labs Portfolio 🎯
+Welcome to my cybersecurity lab portfolio, showcasing 25 hands-on labs completed through the Google Cloud Skills Boost. These labs helped me develop practical skills in cybersecurity—covering real-world tasks from SQL injection to packet capture tools (Wireshark, tcpdump), filtering logs in Big Query, and mastering command-line proficiency.
 
-This repository showcases **25 real-world cybersecurity labs** completed via **Google Cloud Skills Boost**. Each lab strengthened my hands-on experience with tools and techniques used in Security Operations Centers (SOCs), threat analysis, and secure systems management.
+Summary
 
-> 🎯 Built to demonstrate SOC-readiness and my commitment to continuous learning.
+25 labs completed in total
+Verified across all accounts
+Highly rated (100%)
+6 labs in Network Security
+6 labs in Command-line Proficiency
+6 labs in SQL Filtering & Query Construction
+7 labs in Threat Analysis with Suricata
 
----
 
-## ✅ Summary
+Lab Categories
 
-- **25 Labs Completed**
-- **100% Verified Assessment Scores on Majority**
-- Topics covered:
-  - 🔐 Decryption, Packet Capture, and Threat Analysis
-  - 🐧 Linux CLI: File/User Management
-  - 📊 SQL Querying & Filtering
-  - ⚠️ Suricata Rules, Alerts, and Log Monitoring
 
----
 
-## 🧠 Lab Categories
+Category
+Learning Objective
+Sample Labs
 
-| 💡 Category               | 🧠 Sample Labs                                                                 |
-|--------------------------|--------------------------------------------------------------------------------|
-| **Network & Threat Analysis** | `Examine alerts, logs, and rules with Suricata` · `Capture your first packet` |
-| **SQL & Data Filtering** | `Apply filters in SQL` · `Perform a SQL query` · `Complete a SQL join`         |
-| **Decryption/Encryption**| `Decrypt an encrypted message` · `Encrypt/Decrypt files`                       |
-| **Linux CLI & User Mgmt**| `Add and manage users` · `Manage files` · `Get help in the terminal`           |
 
----
 
-## 📸 Screenshot Proof of Completion
+Network & Threat Analysis
+Identify threats (e.g., rule out harmless traffic). Apply filters to logs in BigQuery.
+Capture your first packet. Apply a filter in BigQuery to analyze logs.
 
-> ✅ Verified completions from Google Cloud Skills Boost
 
-![Labs Screenshot – Page 1](./screenshots/Screenshot_part1.png)  
-📌 *Includes: Suricata, Packet Capture, Decryption, SQL Filtering*
+Decryption/Encryption
+Decrypt an encrypted message. Encrypt/decrypt files.
+Decrypt an encrypted message. Use encryption tools.
 
-![Labs Screenshot – Page 2](./screenshots/Screenshot_part2.png)  
-📌 *Includes: SQL Queries, Linux User Management, File Systems*
 
-![Labs Screenshot – Page 3](./screenshots/Screenshot_part3.png)  
-📌 *Includes: Grep Filters, Package Installs, File Management*
+CLI & User Mgmt
+Add and manage user accounts. Perform privilege reset. Help in SSH in the terminal.
+Add a new user. Reset privilege for user account. SSH into a remote machine.
 
----
 
-## 📂 Coming Soon: Lab Walkthroughs & Cheat Sheets
 
-I’m currently documenting my lab processes and best practices in easy-to-follow `.md` files:
+Screenshot Proof
 
-| File Name                              | Description                                   |
-|----------------------------------------|-----------------------------------------------|
-| `SQL_Labs_QuickReference.md`           | Basic filtering, joins, and SQL syntax tips   |
-| `Linux_CLI_Essentials.md`              | Key user and file management terminal commands|
-| `Suricata_Analysis_Tips.md`            | How to interpret alerts, rules, and logs      |
-| `PacketCapture_and_Decrypt_Exercises.md`| Step-by-step packet capture & decryption labs |
+Verified completion (25 Labs, Google Cloud Skills Boost)
 
-📬 Follow this repo to be notified when they go live.
 
----
 
-## 👨‍💻 About Me
 
-**BOBBY [Abbiu] FⱯLERO**  
-Cybersecurity Analyst | SOC Enthusiast | Founder @ FALE Network Solutions  
 
-🌐 [FaleNetwork.com](https://FaleNetwork.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/c21bobbyfalero)  
-📫 bobbyfalero@gmail.com  
+Repository Link
 
-> _“Cybersecurity isn’t just a job—it’s the quiet defense behind every safe transaction.”_
+View the full lab repo here: CyberSecFate/Google-Cloud-Cybersecurity-Labs
 
----
 
-## 🤝 Let’s Connect or Collaborate
+Coming Soon: Lab Walkthroughs & Cheat Sheets
+I’m currently documenting my lab process and best practices in easy-to-follow .md files:
 
-If you're building a SOC team, running a student program, or looking for collaboration on cybersecurity documentation or projects—**reach out any time**.
 
-- Fork this repo  
-- Open an issue  
-- Or contact me directly 📬
+
+File Name
+Description
+
+
+
+gcp_sql_cheatsheet.md
+Basic SQL queries, joins, SQL injection syntax for common terminal commands.
+
+
+gcp_cli_essentials.md
+Key commands for user management, file systems, and logs.
+
+
+suricata_analysis_tips.md
+How to interpret alerts, rules, and logs.
+
+
+packet_capture_tools.md
+Step-by-step packet capture process (Wireshark, tcpdump).
+
+
+Follow the repo to get notified when I publish them!
+
+About Me
+
+Bobby (Jabba) Frizz: SOC Enthusiast | Founder @SALE Network Solutions
+Passionate about cybersecurity and helping others secure their digital environments.
+GitHub: CyberSecFate
+LinkedIn: Bobby Frizz
+Website: SALE Network Solutions
+
+"Cybersecurity isn’t just a job—it’s the quiet defense behind every safe transaction."
+
+You're the Connect!
+If you're building SOC teams, serving a project, or a student looking to collaborate in cybersecurity, I'd love to connect! Please feel free to:
+
+Fork the repo—contribute to this project and reach out any time.
+Open an issue—share your feedback or suggestions.
+Or contact me directly—I'm always happy to chat about cybersecurity!
+
+Feedback Welcome: Feel free to reach out if you'd like to collaborate or provide feedback on this project!
