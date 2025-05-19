@@ -50,9 +50,9 @@ Verified completion (25 Labs, Google Cloud Skills Boost)
 
 
 
-Repository Link
+## Repository Link
 
-View the full lab repo here: CyberSecFate/Google-Cloud-Cybersecurity-Labs
+- View the full lab repo here: [CyberSecFale/Google-Cloud-Cybersecurity-Labs](https://github.com/CyberSecFale/Google-Cloud-Cybersecurity-Labs)
 
 
 Coming Soon: Lab Walkthroughs & Cheat Sheets
